@@ -1,5 +1,5 @@
 // Ethers.js
-// Creates a private & public key for an Ethereum wallet address
+// Generates an Ethereum Privatekey & Address locally 
 
 const ethers = require('ethers');  
 const crypto = require('crypto');
